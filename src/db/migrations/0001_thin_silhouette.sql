@@ -1,0 +1,1 @@
+ALTER TABLE articles ADD `views` text DEFAULT '0' NOT NULL;
